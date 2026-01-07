@@ -1,0 +1,19 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: instagram
+      text: Instagram
+      href: https://instagram.com/brualv89
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/brunoalvarez89/
+    - icon: github
+      text: GitHub
+      href: https://github.com/brunoalvarez89
+
+---
+
+About this blog

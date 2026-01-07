@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  description: "Random perambulations of a bald human."
+  site-url: "https://brualva.github.io"
+  title: "Bruno Does Stuff"
+  navbar:
+    right:
+      - about.ipynb
+
+format:
+  html:
+    theme:
+      #- litera
+      #- sandstone
+      - cosmo
+      #- brand
+    css: styles.css
+
+
+

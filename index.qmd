@@ -1,0 +1,23 @@
+---
+title: ""
+listing:
+  contents: posts
+  feed: true
+  sort: "date desc"
+  type: grid #table #default
+  categories: false
+
+  fields:
+    - title
+    - description
+    - date
+    - reading-time
+    - categories
+    - image
+
+  sort-ui: false #[date, title,]
+  filter-ui: false
+  
+page-layout: full
+title-block-banner: false
+---
